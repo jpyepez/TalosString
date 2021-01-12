@@ -29,4 +29,4 @@ Azure Talos is an expressive multi-string chordophone. This ChucK class was deve
 5. Additional utility functions are available in the "TalosString.ck" class file.
 
 ## Examples:
-Please refer to [https://github.com/jpyepez/AzureTalosCAAC](Azure Talos' CAAC repository) for examples using this ChucK class.
+Please refer to [Azure Talos' CAAC repository](https://github.com/jpyepez/AzureTalosCAAC) for examples using this ChucK class.
