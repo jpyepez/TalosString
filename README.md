@@ -1,6 +1,6 @@
 # TalosString
 
-Azure Talos is an expressive multi-string chordophone. This ChucK class was developed throughout its construction to control each one of its string units.
+Azure Talos is an expressive multi-string mechatronic chordophone. This ChucK class was developed throughout its construction to control each one of its string units.
 
 ## Adding the class to your ChucK project:
 
